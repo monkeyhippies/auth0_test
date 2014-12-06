@@ -1,0 +1,14 @@
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Auth0.AspNet.dll
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Auth0.dll
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\RestSharp.dll
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebActivatorEx.dll
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\RestSharp.xml
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
+c:\users\michael\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
